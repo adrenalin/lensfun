@@ -1,0 +1,1 @@
+{"id":"ttartisan-35mm-f-1-8","maker":"TTArtisan","model":"TTArtisan 35mm f/1.8","mounts":["Sony E","Fujifilm X","Nikon Z"],"crop":1.534,"focal":[35.0,35.0],"aperture":1.8,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":35.0,"model":"ptlens","a":0.0044792,"b":-0.0214036,"c":0.0165893}],"tca":[{"focal":35.0,"model":"poly3","vr":1.0002733,"vb":0.9997463}],"vignetting":[]}

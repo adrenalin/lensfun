@@ -1,0 +1,1 @@
+{"id":"sony-fe-50mm-f-2-5-g","maker":"Sony","model":"FE 50mm f/2.5 G","mounts":["Sony E"],"crop":1.0,"focal":[50.0,50.0],"aperture":2.5,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":50.0,"model":"ptlens","a":0.0,"b":1e-05,"c":0.0}],"tca":[{"focal":50.0,"model":"poly3","vr":1.0000128,"vb":1.0000018}],"vignetting":[]}

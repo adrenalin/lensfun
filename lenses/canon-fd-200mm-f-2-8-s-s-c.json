@@ -1,0 +1,1 @@
+{"id":"canon-fd-200mm-f-2-8-s-s-c","maker":"Canon","model":"Canon FD 200mm f/2.8 S.S.C.","mounts":["Canon FD"],"crop":1.534,"focal":[200.0,200.0],"aperture":2.8,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":200.0,"model":"poly3","k1":0.00162}],"tca":[{"focal":200.0,"model":"poly3","vr":0.9999312,"vb":0.9999748,"br":-3.07e-05,"bb":-1.25e-05}],"vignetting":[]}

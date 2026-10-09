@@ -1,0 +1,1 @@
+{"id":"canon-fdn-24mm-1-2-8","maker":"Canon","model":"Canon FDn 24mm 1:2.8","mounts":["Canon FD"],"crop":1.529,"focal":[24.0,24.0],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":24.0,"model":"ptlens","a":0.00827,"b":-0.02833,"c":0.01235}],"tca":[{"focal":24.0,"model":"poly3","vr":1.0006247,"vb":0.9998035}],"vignetting":[]}

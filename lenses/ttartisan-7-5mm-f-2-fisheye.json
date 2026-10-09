@@ -1,0 +1,1 @@
+{"id":"ttartisan-7-5mm-f-2-fisheye","maker":"TTArtisan","model":"TTArtisan 7.5mm f/2 Fisheye","mounts":["Micro 4/3 System"],"crop":2.0,"focal":[7.5,7.5],"aperture":2.0,"aspect":1.333333,"type":"fisheye","distortion":[{"focal":7.5,"model":"ptlens","a":-0.03664,"b":0.23747,"c":-0.09832}],"tca":[{"focal":7.5,"model":"poly3","vr":1.0004521,"vb":0.9999899}],"vignetting":[]}

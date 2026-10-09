@@ -1,0 +1,1 @@
+{"id":"zeiss-lumia-1020","maker":"Zeiss","model":"Lumia 1020","mounts":["lumia1020"],"crop":3.93,"focal":[6.6,6.6],"aperture":null,"aspect":1.777778,"type":"rectilinear","distortion":[{"focal":6.6,"model":"ptlens","a":-0.01804,"b":0.06109,"c":-0.05264}],"tca":[{"focal":6.6,"model":"poly3","vr":1.0001865,"vb":0.9999709,"br":-4.39e-05,"bb":8.5e-06}],"vignetting":[]}

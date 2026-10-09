@@ -1,0 +1,1 @@
+{"id":"lg-g4-compatibles","maker":"LG","model":"LG G4 & compatibles","mounts":["lgH815"],"crop":6.34,"focal":[4.42,4.42],"aperture":null,"aspect":1.777778,"type":"rectilinear","distortion":[{"focal":4.42,"model":"poly3","k1":0.00306}],"tca":[{"focal":4.42,"model":"poly3","vr":1.0000246,"vb":1.0000556}],"vignetting":[]}

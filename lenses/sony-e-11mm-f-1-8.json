@@ -1,0 +1,1 @@
+{"id":"sony-e-11mm-f-1-8","maker":"Sony","model":"E 11mm f/1.8","mounts":["Sony E"],"crop":1.534,"focal":[11.0,11.0],"aperture":1.8,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":11.0,"model":"ptlens","a":0.0121896,"b":-0.0491126,"c":-0.0374024}],"tca":[{"focal":11.0,"model":"poly3","vr":1.0001991,"vb":1.0000966,"br":2.54e-05,"bb":-6e-07}],"vignetting":[]}

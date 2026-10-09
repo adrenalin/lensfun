@@ -1,0 +1,1 @@
+{"id":"samyang-xp-10mm-f-3-5","maker":"Samyang","model":"Samyang XP 10mm f/3.5","mounts":["Canon EF"],"crop":1.005,"focal":[10.0,10.0],"aperture":3.5,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":10.0,"model":"ptlens","a":0.01004,"b":-0.05209,"c":0.0642}],"tca":[{"focal":10.0,"model":"poly3","vr":1.0000242,"vb":1.0001439}],"vignetting":[]}

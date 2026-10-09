@@ -1,0 +1,1 @@
+{"id":"carl-zeiss-dsc-rx1r-compatibles","maker":"Carl Zeiss","model":"DSC-RX1R & compatibles","mounts":["sonyRX1"],"crop":1.0,"focal":[35.0,35.0],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":35.0,"model":"ptlens","a":0.01397,"b":-0.05582,"c":0.04619}],"tca":[{"focal":35.0,"model":"poly3","vr":1.0001751,"vb":1.000053}],"vignetting":[]}

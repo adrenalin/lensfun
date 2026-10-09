@@ -1,0 +1,1 @@
+{"id":"samsung-nx-45mm-f-1-8-2d-3d","maker":"Samsung","model":"Samsung NX 45mm f/1.8 2D/3D","mounts":["Samsung NX"],"crop":1.525,"focal":[45.0,45.0],"aperture":1.8,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":45.0,"model":"poly3","k1":-0.00974}],"tca":[{"focal":45.0,"model":"poly3","vr":1.0001884,"vb":0.9997324,"br":-3.73e-05,"bb":9.5e-05}],"vignetting":[]}

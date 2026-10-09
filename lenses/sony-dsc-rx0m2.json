@@ -1,0 +1,1 @@
+{"id":"sony-dsc-rx0m2","maker":"Sony","model":"DSC-RX0M2","mounts":["sonyRX0M2"],"crop":2.7,"focal":[7.9,7.9],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":7.9,"model":"ptlens","a":0.05683,"b":-0.18777,"c":0.1603}],"tca":[{"focal":7.9,"model":"poly3","vr":1.000064,"vb":1.0000737}],"vignetting":[]}

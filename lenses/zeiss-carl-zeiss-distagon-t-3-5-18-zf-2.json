@@ -1,0 +1,1 @@
+{"id":"zeiss-carl-zeiss-distagon-t-3-5-18-zf-2","maker":"Zeiss","model":"Carl Zeiss Distagon T* 3.5/18 ZF.2","mounts":["Nikon F AF","Canon EF","Pentax KAF2"],"crop":1.0,"focal":[18.0,18.0],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":18.0,"model":"ptlens","a":0.035,"b":-0.074,"c":0.024}],"tca":[],"vignetting":[]}

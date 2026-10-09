@@ -1,0 +1,1 @@
+{"id":"voigtl-nder-color-skopar-x-1-2-8-50","maker":"Voigtländer","model":"Color-Skopar X 1:2.8/50","mounts":["DKL"],"crop":1.529,"focal":[50.0,50.0],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":50.0,"model":"poly3","k1":-0.00238}],"tca":[{"focal":50.0,"model":"poly3","vr":1.0000342,"vb":0.9999683}],"vignetting":[]}

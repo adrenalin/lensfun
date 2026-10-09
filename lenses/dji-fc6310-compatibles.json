@@ -1,0 +1,1 @@
+{"id":"dji-fc6310-compatibles","maker":"DJI","model":"FC6310 & compatibles","mounts":["djiFC6310"],"crop":2.73,"focal":[8.8,8.8],"aperture":null,"aspect":1.777778,"type":"rectilinear","distortion":[{"focal":8.8,"model":"ptlens","a":0.00961599,"b":-0.0582928,"c":-0.00551691}],"tca":[{"focal":8.8,"model":"poly3","vr":1.0000759,"vb":1.0000033}],"vignetting":[]}

@@ -1,0 +1,1 @@
+{"id":"sigma-10mm-f-2-8-ex-dc-fisheye-hsm-2","maker":"Sigma","model":"Sigma 10mm f/2.8 EX DC Fisheye HSM","mounts":["Nikon F AF","Sony Alpha","Pentax KAF2","Canon EF"],"crop":1.523,"focal":[10.0,10.0],"aperture":2.8,"aspect":1.5,"type":"fisheye","distortion":[{"focal":10.0,"model":"ptlens","a":0.00057,"b":-0.02738,"c":0.00014}],"tca":[],"vignetting":[]}

@@ -1,0 +1,1 @@
+{"id":"nikon-nikkor-z-50mm-f-1-4","maker":"Nikon","model":"Nikkor Z 50mm f/1.4","mounts":["Nikon Z"],"crop":1.0,"focal":[50.0,50.0],"aperture":1.4,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":50.0,"model":"ptlens","a":-0.0033025,"b":0.0072582,"c":-0.0032197}],"tca":[{"focal":50.0,"model":"poly3","vr":1.0001877,"vb":1.000382}],"vignetting":[]}

@@ -1,0 +1,1 @@
+{"id":"zeiss-carl-zeiss-planar-t-1-4-50-zf-2","maker":"Zeiss","model":"Carl Zeiss Planar T* 1.4/50 ZF.2","mounts":["Nikon F AF","Canon EF","Pentax KAF2"],"crop":1.523,"focal":[50.0,50.0],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":50.0,"model":"ptlens","a":0.002,"b":-0.01,"c":0.005}],"tca":[],"vignetting":[]}

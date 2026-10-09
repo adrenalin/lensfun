@@ -1,0 +1,1 @@
+{"id":"ricoh-xr-rikenon-1-1-4-50mm","maker":"Ricoh","model":"Ricoh XR Rikenon 1:1.4 50mm","mounts":["Pentax K"],"crop":1.523,"focal":[50.0,50.0],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":50.0,"model":"poly3","k1":-0.00302}],"tca":[{"focal":50.0,"model":"poly3","vr":1.0001338,"vb":0.99983,"br":-2.76e-05,"bb":2.54e-05}],"vignetting":[]}

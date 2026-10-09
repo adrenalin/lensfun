@@ -1,0 +1,1 @@
+{"id":"zeiss-batis-2-8-18","maker":"Zeiss","model":"Zeiss Batis 2.8/18","mounts":["Sony E"],"crop":1.0,"focal":[18.0,18.0],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":18.0,"model":"ptlens","a":0.03666,"b":-0.0936845,"c":0.0413531}],"tca":[{"focal":18.0,"model":"poly3","vr":1.0001447,"vb":0.9999362,"br":-3.85e-05,"bb":4.68e-05}],"vignetting":[]}

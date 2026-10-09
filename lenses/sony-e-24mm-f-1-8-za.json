@@ -1,0 +1,1 @@
+{"id":"sony-e-24mm-f-1-8-za","maker":"Sony","model":"E 24mm f/1.8 ZA","mounts":["Sony E"],"crop":1.534,"focal":[24.0,24.0],"aperture":1.8,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":24.0,"model":"ptlens","a":0.00641,"b":-0.0083,"c":0.00228}],"tca":[{"focal":24.0,"model":"linear","kr":1.0004,"kb":1.0002}],"vignetting":[]}

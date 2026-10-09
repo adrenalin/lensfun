@@ -1,0 +1,1 @@
+{"id":"zeiss-e-21mm-f2-8","maker":"Zeiss","model":"E 21mm F2.8","mounts":["Sony E"],"crop":1.0,"focal":[21.0,21.0],"aperture":2.8,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":21.0,"model":"ptlens","a":0.02059,"b":-0.05856,"c":0.0302}],"tca":[{"focal":21.0,"model":"poly3","vr":1.0000849,"vb":1.0000258}],"vignetting":[]}

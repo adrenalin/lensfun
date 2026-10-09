@@ -1,0 +1,1 @@
+{"id":"toshiba-tosner-mc-28mm-f-2-8","maker":"Toshiba","model":"Tosner MC 28mm f/2.8","mounts":["M42"],"crop":2.0,"focal":[28.0,28.0],"aperture":2.8,"aspect":1.333333,"type":"rectilinear","distortion":[{"focal":28.0,"model":"ptlens","a":0.0023994,"b":-0.0092999,"c":0.0032453}],"tca":[],"vignetting":[]}

@@ -1,0 +1,1 @@
+{"id":"sony-e-15mm-f1-4-g","maker":"Sony","model":"E 15mm F1.4 G","mounts":["Sony E"],"crop":1.534,"focal":[15.0,15.0],"aperture":1.4,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":15.0,"model":"ptlens","a":-0.0069089,"b":-0.0026383,"c":-0.055656}],"tca":[{"focal":15.0,"model":"poly3","vr":1.000316,"vb":1.0000452}],"vignetting":[]}

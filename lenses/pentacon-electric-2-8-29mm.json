@@ -1,0 +1,1 @@
+{"id":"pentacon-electric-2-8-29mm","maker":"Pentacon","model":"Pentacon electric 2.8/29mm","mounts":["M42"],"crop":1.0,"focal":[29.0,29.0],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":29.0,"model":"ptlens","a":0.0136,"b":-0.03992,"c":0.01167}],"tca":[{"focal":29.0,"model":"poly3","vr":1.0001492,"vb":1.0000877}],"vignetting":[]}

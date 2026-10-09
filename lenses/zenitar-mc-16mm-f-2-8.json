@@ -1,0 +1,1 @@
+{"id":"zenitar-mc-16mm-f-2-8","maker":"Zenit","model":"Zenitar MC 16mm f/2.8","mounts":["M42","Nikon F","Canon EF","Pentax K"],"crop":1.529,"focal":[16.0,16.0],"aperture":2.8,"aspect":1.5,"type":"fisheye","distortion":[{"focal":16.0,"model":"poly3","k1":-0.00676}],"tca":[{"focal":16.0,"model":"poly3","vr":0.9999213,"vb":1.000596}],"vignetting":[]}

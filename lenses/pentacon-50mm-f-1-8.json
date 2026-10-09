@@ -1,0 +1,1 @@
+{"id":"pentacon-50mm-f-1-8","maker":"Pentacon","model":"Pentacon 50mm f/1.8","mounts":["M42"],"crop":1.0,"focal":[50.0,50.0],"aperture":1.8,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":50.0,"model":"ptlens","a":-0.000726512,"b":-0.00766304,"c":0.00579719}],"tca":[{"focal":50.0,"model":"poly3","vr":1.0000419,"vb":0.9999873,"br":-1e-07,"bb":-1.35e-05}],"vignetting":[]}

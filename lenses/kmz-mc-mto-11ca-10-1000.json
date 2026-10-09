@@ -1,0 +1,1 @@
+{"id":"kmz-mc-mto-11ca-10-1000","maker":"KMZ","model":"MC MTO 11CA 10/1000","mounts":["M42"],"crop":1.531,"focal":[1000.0,1000.0],"aperture":10.0,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":1000.0,"model":"poly3","k1":0.00451}],"tca":[],"vignetting":[]}

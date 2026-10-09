@@ -1,0 +1,1 @@
+{"id":"samsung-s7-wide-angle-lens-cover","maker":"Samsung","model":"Samsung S7 wide angle lens cover","mounts":["samsungS7"],"crop":6.19,"focal":[4.2,4.2],"aperture":null,"aspect":1.333333,"type":"rectilinear","distortion":[{"focal":4.2,"model":"ptlens","a":0.03904,"b":-0.15646,"c":0.13025}],"tca":[{"focal":4.2,"model":"poly3","vr":1.0000287,"vb":1.0001262}],"vignetting":[]}

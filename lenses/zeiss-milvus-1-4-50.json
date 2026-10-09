@@ -1,0 +1,1 @@
+{"id":"zeiss-milvus-1-4-50","maker":"Zeiss","model":"Zeiss Milvus 1.4/50","mounts":["Canon EF","Nikon F AI-S"],"crop":1.0,"focal":[50.0,50.0],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":50.0,"model":"poly3","k1":-0.002311}],"tca":[{"focal":50.0,"model":"poly3","vr":1.0001884,"vb":0.9997801,"br":-9.53e-05,"bb":0.0001209}],"vignetting":[]}

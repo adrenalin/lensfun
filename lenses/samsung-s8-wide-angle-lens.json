@@ -1,0 +1,1 @@
+{"id":"samsung-s8-wide-angle-lens","maker":"Samsung","model":"Samsung S8 wide angle lens","mounts":["samsungS8wide"],"crop":6.047,"focal":[4.3,4.3],"aperture":null,"aspect":1.333333,"type":"rectilinear","distortion":[{"focal":4.3,"model":"ptlens","a":0.028436,"b":-0.111992,"c":0.127611}],"tca":[{"focal":4.3,"model":"poly3","vr":1.000021,"vb":1.0000744}],"vignetting":[]}

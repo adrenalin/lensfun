@@ -1,0 +1,1 @@
+{"id":"samyang-af-24mm-f-1-8","maker":"Samyang","model":"Samyang AF 24mm f/1.8","mounts":["Sony E"],"crop":1.0,"focal":[24.0,24.0],"aperture":24.0,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":24.0,"model":"ptlens","a":0.01569,"b":-0.03867,"c":-4e-05}],"tca":[{"focal":24.0,"model":"poly3","vr":1.0001037,"vb":0.9999944}],"vignetting":[]}

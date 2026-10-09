@@ -1,0 +1,1 @@
+{"id":"canon-fdn-100mm-f-2-8","maker":"Canon","model":"Canon FDn 100mm f/2.8","mounts":["Canon FD"],"crop":1.534,"focal":[100.0,100.0],"aperture":2.8,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":100.0,"model":"ptlens","a":-0.0119438,"b":0.0417384,"c":-0.0427956}],"tca":[{"focal":100.0,"model":"poly3","vr":0.9997932,"vb":1.000022}],"vignetting":[]}

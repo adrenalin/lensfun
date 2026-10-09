@@ -1,0 +1,1 @@
+{"id":"sigma-8mm-f-3-5-ex-dg-circular","maker":"Sigma","model":"Sigma 8mm f/3.5 EX DG Circular","mounts":["Nikon F AF","Sigma SA","Canon EF"],"crop":1.523,"focal":[8.0,8.0],"aperture":3.5,"aspect":1.5,"type":"equisolid","distortion":[{"focal":8.0,"model":"ptlens","a":-0.18485,"b":0.5218,"c":-0.42534}],"tca":[{"focal":8.0,"model":"linear","kr":1.0006,"kb":1.0004}],"vignetting":[]}

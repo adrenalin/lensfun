@@ -1,0 +1,1 @@
+{"id":"zeiss-lumia-950","maker":"Zeiss","model":"Lumia 950","mounts":["lumia950"],"crop":6.02,"focal":[4.3,4.3],"aperture":null,"aspect":1.333333,"type":"rectilinear","distortion":[{"focal":4.3,"model":"ptlens","a":-0.01625,"b":0.04667,"c":-0.03155}],"tca":[],"vignetting":[]}

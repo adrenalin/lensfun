@@ -1,0 +1,1 @@
+{"id":"nikon-af-dc-nikkor-105mm-f-2d","maker":"Nikon","model":"Nikon AF DC-Nikkor 105mm f/2D","mounts":["Nikon F AF"],"crop":1.0,"focal":[105.0,105.0],"aperture":2.0,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":105.0,"model":"ptlens","a":-0.00457,"b":0.01891,"c":-0.02932}],"tca":[{"focal":105.0,"model":"poly3","vr":0.9998959,"vb":1.0001104}],"vignetting":[]}

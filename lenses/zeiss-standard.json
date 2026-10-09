@@ -1,0 +1,1 @@
+{"id":"zeiss-standard","maker":"Zeiss","model":"Standard","mounts":["lumia1520"],"crop":6.26,"focal":[4.5,4.5],"aperture":null,"aspect":1.777778,"type":"rectilinear","distortion":[{"focal":4.5,"model":"poly3","k1":0.00674}],"tca":[],"vignetting":[]}

@@ -1,0 +1,1 @@
+{"id":"beroflex-1-8-500mm","maker":"Beroflex","model":"Beroflex 1:8 500mm","mounts":["T2"],"crop":1.531,"focal":[500.0,500.0],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":500.0,"model":"poly3","k1":0.00108}],"tca":[{"focal":500.0,"model":"poly3","vr":0.9999464,"vb":0.9997637}],"vignetting":[]}

@@ -1,0 +1,1 @@
+{"id":"samyang-35mm-f-1-4-as-umc-2","maker":"Samyang","model":"Samyang 35mm f/1.4 AS UMC","mounts":["Canon EF-S"],"crop":1.605,"focal":[35.0,35.0],"aperture":1.4,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":35.0,"model":"ptlens","a":-0.00182,"b":0.00936,"c":-0.02772}],"tca":[{"focal":35.0,"model":"poly3","vr":1.0002038,"vb":1.0000399}],"vignetting":[]}

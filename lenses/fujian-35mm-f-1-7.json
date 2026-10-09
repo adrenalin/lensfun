@@ -1,0 +1,1 @@
+{"id":"fujian-35mm-f-1-7","maker":"Fujian","model":"35mm f/1.7","mounts":["C"],"crop":2.0,"focal":[35.0,35.0],"aperture":1.7,"aspect":1.333333,"type":"rectilinear","distortion":[{"focal":35.0,"model":"poly3","k1":-0.0055}],"tca":[{"focal":35.0,"model":"poly3","vr":1.0005429,"vb":1.0008622,"br":-0.0001764,"bb":7.86e-05}],"vignetting":[]}

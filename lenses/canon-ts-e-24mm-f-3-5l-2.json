@@ -1,0 +1,1 @@
+{"id":"canon-ts-e-24mm-f-3-5l-2","maker":"Canon","model":"Canon TS-E 24mm f/3.5L","mounts":["Canon EF"],"crop":1.622,"focal":[24.0,24.0],"aperture":3.5,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":24.0,"model":"poly3","k1":-0.00317}],"tca":[{"focal":24.0,"model":"poly3","vr":1.0003986,"vb":0.9999787,"br":-1.8e-06,"bb":-2.9e-06}],"vignetting":[]}

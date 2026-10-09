@@ -1,0 +1,1 @@
+{"id":"sigma-dp2-compatibles-standard","maker":"Sigma","model":"Sigma DP2 & compatibles (Standard)","mounts":["sigmaDP2"],"crop":1.739,"focal":[24.2,24.2],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":24.2,"model":"ptlens","a":0.00558,"b":-0.01995,"c":0.00605}],"tca":[],"vignetting":[]}

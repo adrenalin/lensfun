@@ -1,0 +1,1 @@
+{"id":"nikon-nikkor-z-35mm-f-1-4","maker":"Nikon","model":"Nikkor Z 35mm f/1.4","mounts":["Nikon Z"],"crop":1.0,"focal":[35.0,35.0],"aperture":1.4,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":35.0,"model":"ptlens","a":-0.0022063,"b":-0.0123235,"c":-0.011755}],"tca":[{"focal":35.0,"model":"poly3","vr":1.0000866,"vb":1.0001137}],"vignetting":[]}

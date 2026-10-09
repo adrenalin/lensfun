@@ -1,0 +1,1 @@
+{"id":"aee-sd19-compatibles","maker":"AEE","model":"AEE SD19 & compatibles","mounts":["aeeDV"],"crop":6.0,"focal":[5.0,5.0],"aperture":null,"aspect":1.333333,"type":"equisolid","distortion":[{"focal":5.0,"model":"ptlens","a":0.05109,"b":-0.12092,"c":0.10955,"realFocal":2.61}],"tca":[],"vignetting":[]}

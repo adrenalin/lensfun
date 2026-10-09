@@ -1,0 +1,1 @@
+{"id":"sony-e-30mm-f-3-5-macro","maker":"Sony","model":"E 30mm f/3.5 Macro","mounts":["Sony E"],"crop":1.534,"focal":[30.0,30.0],"aperture":3.5,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":30.0,"model":"ptlens","a":0.00105,"b":-0.00352,"c":0.00057}],"tca":[{"focal":30.0,"model":"poly3","vr":1.0005827,"vb":0.9997635,"br":-7.97e-05,"bb":6.55e-05}],"vignetting":[]}

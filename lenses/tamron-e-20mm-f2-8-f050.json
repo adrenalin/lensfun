@@ -1,0 +1,1 @@
+{"id":"tamron-e-20mm-f2-8-f050","maker":"Tamron","model":"E 20mm F2.8 F050","mounts":["Sony E"],"crop":1.0,"focal":[20.0,20.0],"aperture":2.8,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":20.0,"model":"ptlens","a":0.017,"b":-0.066,"c":-0.021}],"tca":[{"focal":20.0,"model":"poly3","vr":1.000281,"vb":0.999932,"br":-2.14e-05,"bb":6.68e-05}],"vignetting":[]}

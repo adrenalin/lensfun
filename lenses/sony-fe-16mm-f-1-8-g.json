@@ -1,0 +1,1 @@
+{"id":"sony-fe-16mm-f-1-8-g","maker":"Sony","model":"FE 16mm f/1.8 G","mounts":["Sony E"],"crop":1.0,"focal":[16.0,16.0],"aperture":1.8,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":16.0,"model":"ptlens","a":0.0269355,"b":-0.0835928,"c":-0.0009985}],"tca":[{"focal":16.0,"model":"poly3","vr":1.000059,"vb":1.0000404}],"vignetting":[]}

@@ -1,0 +1,1 @@
+{"id":"pentax-smc-pentax-m-200mm-f-4","maker":"Pentax","model":"smc Pentax-M 200mm f/4","mounts":["Pentax K"],"crop":1.538,"focal":[200.0,200.0],"aperture":4.0,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":200.0,"model":"ptlens","a":-0.0016336,"b":0.0072752,"c":-0.0090094}],"tca":[{"focal":200.0,"model":"poly3","vr":0.9996169,"vb":0.9997606}],"vignetting":[]}

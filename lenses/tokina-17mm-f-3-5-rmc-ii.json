@@ -1,0 +1,1 @@
+{"id":"tokina-17mm-f-3-5-rmc-ii","maker":"Tokina","model":"Tokina 17mm f/3.5 RMC II","mounts":["Nikon F AI"],"crop":1.0,"focal":[17.0,17.0],"aperture":3.5,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":17.0,"model":"ptlens","a":0.01947,"b":-0.03345,"c":-0.02996}],"tca":[{"focal":17.0,"model":"poly3","vr":1.0000948,"vb":1.0002216}],"vignetting":[]}

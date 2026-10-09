@@ -1,0 +1,1 @@
+{"id":"nikon-1-nikkor-32mm-f-1-2","maker":"Nikon","model":"1 Nikkor 32mm f/1.2","mounts":["Nikon CX"],"crop":2.727,"focal":[32.0,32.0],"aperture":1.2,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":32.0,"model":"ptlens","a":-0.002,"b":0.004,"c":-0.003}],"tca":[{"focal":32.0,"model":"poly3","vr":1.0000997,"vb":0.9998935,"br":-2.93e-05,"bb":3.37e-05}],"vignetting":[]}

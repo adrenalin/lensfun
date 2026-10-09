@@ -1,0 +1,1 @@
+{"id":"minolta-md-135mm-f-2-8","maker":"Minolta","model":"Minolta MD 135mm f/2.8","mounts":["Minolta MD"],"crop":1.534,"focal":[135.0,135.0],"aperture":2.8,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":135.0,"model":"ptlens","a":-0.001264,"b":0.003363,"c":0.0023223}],"tca":[{"focal":135.0,"model":"poly3","vr":0.9997365,"vb":1.0000121}],"vignetting":[]}

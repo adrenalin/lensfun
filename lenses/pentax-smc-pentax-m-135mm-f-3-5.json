@@ -1,0 +1,1 @@
+{"id":"pentax-smc-pentax-m-135mm-f-3-5","maker":"Pentax","model":"smc Pentax-M 135mm f/3.5","mounts":["Pentax K"],"crop":1.538,"focal":[135.0,135.0],"aperture":3.5,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":135.0,"model":"ptlens","a":-0.0358928,"b":0.1288986,"c":-0.1418313}],"tca":[{"focal":135.0,"model":"poly3","vr":0.9997741,"vb":0.9998006}],"vignetting":[]}

@@ -1,0 +1,1 @@
+{"id":"ricoh-rikenon-p-50mm-f-2","maker":"Ricoh","model":"Rikenon P 50mm f/2","mounts":["Pentax K"],"crop":1.538,"focal":[50.0,50.0],"aperture":2.0,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":50.0,"model":"ptlens","a":-0.00363328,"b":0.0107642,"c":-0.0108019}],"tca":[{"focal":50.0,"model":"poly3","vr":1.0001049,"vb":0.9998846}],"vignetting":[]}

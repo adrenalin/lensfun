@@ -1,0 +1,1 @@
+{"id":"ricoh-gr-compatibles","maker":"Ricoh","model":"Ricoh GR & compatibles","mounts":["ricohGR"],"crop":1.523,"focal":[18.3,18.3],"aperture":null,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":18.3,"model":"ptlens","a":0.01134,"b":-0.03066,"c":0.01059}],"tca":[{"focal":18.3,"model":"poly3","vr":1.0001157,"vb":0.9999549}],"vignetting":[]}

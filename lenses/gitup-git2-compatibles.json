@@ -1,0 +1,1 @@
+{"id":"gitup-git2-compatibles","maker":"GitUp","model":"Git2 & compatibles","mounts":["git2"],"crop":5.57,"focal":[3.0,3.0],"aperture":null,"aspect":1.333333,"type":"equisolid","distortion":[{"focal":3.0,"model":"poly3","k1":0.01419}],"tca":[{"focal":3.0,"model":"poly3","vr":1.0001473,"vb":1.0005537,"br":-2.01e-05,"bb":-0.0001084}],"vignetting":[]}

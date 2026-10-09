@@ -1,1 +1,1 @@
-{"id":"canon-ef-28mm-f-1-8-usm","maker":"Canon","model":"Canon EF 28mm f/1.8 USM","mounts":["Canon EF"],"crop":1.0,"focal":[28.0,28.0],"aperture":28.0,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":28.0,"model":"ptlens","a":0.018,"b":-0.048,"c":0.019}],"tca":[],"vignetting":[]}
+{"id":"canon-ef-28mm-f-1-8-usm","maker":"Canon","model":"Canon EF 28mm f/1.8 USM","mounts":["Canon EF"],"crop":1.0,"focal":[28.0,28.0],"aperture":1.8,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":28.0,"model":"ptlens","a":0.018,"b":-0.048,"c":0.019}],"tca":[],"vignetting":[]}

@@ -1,1 +1,1 @@
-{"id":"canon-ef-85mm-f-1-2l-usm","maker":"Canon","model":"Canon EF 85mm f/1.2L USM","mounts":["Canon EF"],"crop":1.0,"focal":[85.0,85.0],"aperture":85.0,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":85.0,"model":"poly3","k1":-0.00214}],"tca":[],"vignetting":[]}
+{"id":"canon-ef-85mm-f-1-2l-usm","maker":"Canon","model":"Canon EF 85mm f/1.2L USM","mounts":["Canon EF"],"crop":1.0,"focal":[85.0,85.0],"aperture":1.2,"aspect":1.5,"type":"rectilinear","distortion":[{"focal":85.0,"model":"poly3","k1":-0.00214}],"tca":[],"vignetting":[]}
